@@ -1,6 +1,9 @@
 //C:\Program Files\Java\jdk-13.0.2\bin>java.exe C:\Users\cgarrido\Desktop\OddEven.java
+/*
+Ask the user for a number. Depending on whether the number is even or odd, print out an appropriate message
+to the user. 
+*/
 import java.util.Scanner;
-
 class OddEven {
 	public static void main(String args[]){
 		int num;
