@@ -1,4 +1,8 @@
 //C:\Program Files\Java\jdk-13.0.2\bin>java.exe C:\Users\cgarrido\Desktop\CharacterInput.java
+/*
+Create a program that asks the user to enter their name and their age. 
+Print out a message addressed to them that tells them the year that they will turn 100 years old. 
+*/
 import java.util.Scanner;
 public class CharacterInput {
 	public static void main(String[] args){
